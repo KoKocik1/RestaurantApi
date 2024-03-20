@@ -1,0 +1,125 @@
+2024-03-02 19:31:20.0741 Info Loading assembly name: NLog-Web.AspNetCore
+2024-03-02 19:31:20.0971 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: NLog-Web.AspNetCore
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+
+File name: 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.InternalLoad(AssemblyName assemblyName, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext, RuntimeAssembly requestingAssembly, Boolean throwOnFileNotFound)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(String assemblyName)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(ConfigurationItemFactory factory, String assemblyName, String itemNamePrefix)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssemblyName(String assemblyName, String prefix)
+   --- End of inner exception stack trace ---
+2024-03-02 19:31:20.1274 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-02 19:31:20.1616 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-02 19:31:20.2644 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=/Users/krzysztofkokot/Projects/RestaurantApi/RestaurantApi/NLog.config
+2024-03-02 19:31:20.2703 Info Configuration initialized.
+2024-03-02 19:39:34.1781 Info Loading assembly name: NLog-Web.AspNetCore
+2024-03-02 19:39:34.1941 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: NLog-Web.AspNetCore
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+
+File name: 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.InternalLoad(AssemblyName assemblyName, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext, RuntimeAssembly requestingAssembly, Boolean throwOnFileNotFound)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(String assemblyName)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(ConfigurationItemFactory factory, String assemblyName, String itemNamePrefix)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssemblyName(String assemblyName, String prefix)
+   --- End of inner exception stack trace ---
+2024-03-02 19:39:34.2307 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-02 19:39:34.2412 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-02 19:39:34.3294 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=/Users/krzysztofkokot/Projects/RestaurantApi/RestaurantApi/NLog.config
+2024-03-02 19:39:34.3554 Info Configuration initialized.
+2024-03-02 19:52:33.1656 Info Loading assembly name: NLog-Web.AspNetCore
+2024-03-02 19:52:33.1784 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: NLog-Web.AspNetCore
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+
+File name: 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.InternalLoad(AssemblyName assemblyName, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext, RuntimeAssembly requestingAssembly, Boolean throwOnFileNotFound)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(String assemblyName)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(ConfigurationItemFactory factory, String assemblyName, String itemNamePrefix)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssemblyName(String assemblyName, String prefix)
+   --- End of inner exception stack trace ---
+2024-03-02 19:52:33.2045 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-02 19:52:33.2127 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-02 19:52:33.2423 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=/Users/krzysztofkokot/Projects/RestaurantApi/RestaurantApi/NLog.config
+2024-03-02 19:52:33.2470 Info Configuration initialized.
+2024-03-02 19:57:12.0323 Info Loading assembly name: NLog-Web.AspNetCore
+2024-03-02 19:57:12.0471 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: NLog-Web.AspNetCore
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+
+File name: 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.InternalLoad(AssemblyName assemblyName, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext, RuntimeAssembly requestingAssembly, Boolean throwOnFileNotFound)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(String assemblyName)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(ConfigurationItemFactory factory, String assemblyName, String itemNamePrefix)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssemblyName(String assemblyName, String prefix)
+   --- End of inner exception stack trace ---
+2024-03-02 19:57:12.0802 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-03-02 19:57:12.0807 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-02 19:57:12.0901 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-02 19:57:12.2083 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=36, FilePath=/Users/krzysztofkokot/Projects/RestaurantApi/RestaurantApi/NLog.config
+2024-03-02 19:57:12.2822 Info Configuration initialized.
+2024-03-02 19:58:32.7516 Info Loading assembly name: NLog-Web.AspNetCore
+2024-03-02 19:58:32.7692 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: NLog-Web.AspNetCore
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+
+File name: 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.InternalLoad(AssemblyName assemblyName, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext, RuntimeAssembly requestingAssembly, Boolean throwOnFileNotFound)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(String assemblyName)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(ConfigurationItemFactory factory, String assemblyName, String itemNamePrefix)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssemblyName(String assemblyName, String prefix)
+   --- End of inner exception stack trace ---
+2024-03-02 19:58:32.8605 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-03-02 19:58:32.8651 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-02 19:58:32.9115 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-02 19:58:32.9781 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=36, FilePath=/Users/krzysztofkokot/Projects/RestaurantApi/RestaurantApi/NLog.config
+2024-03-02 19:58:32.9864 Info Configuration initialized.
+2024-03-02 20:00:04.8991 Info Loading assembly name: NLog-Web.AspNetCore
+2024-03-02 20:00:04.9181 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: NLog-Web.AspNetCore
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+
+File name: 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.InternalLoad(AssemblyName assemblyName, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext, RuntimeAssembly requestingAssembly, Boolean throwOnFileNotFound)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(String assemblyName)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(ConfigurationItemFactory factory, String assemblyName, String itemNamePrefix)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssemblyName(String assemblyName, String prefix)
+   --- End of inner exception stack trace ---
+2024-03-02 20:00:04.9491 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-03-02 20:00:04.9495 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-02 20:00:04.9584 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-02 20:00:04.9902 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=40, FilePath=/Users/krzysztofkokot/Projects/RestaurantApi/RestaurantApi/NLog.config
+2024-03-02 20:00:04.9951 Info Configuration initialized.
+2024-03-02 20:21:33.0108 Info Loading assembly name: NLog-Web.AspNetCore
+2024-03-02 20:21:33.0325 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: NLog-Web.AspNetCore
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+
+File name: 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.InternalLoad(AssemblyName assemblyName, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext, RuntimeAssembly requestingAssembly, Boolean throwOnFileNotFound)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(String assemblyName)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(ConfigurationItemFactory factory, String assemblyName, String itemNamePrefix)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssemblyName(String assemblyName, String prefix)
+   --- End of inner exception stack trace ---
+2024-03-02 20:21:33.0664 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-03-02 20:21:33.0664 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-02 20:21:33.0766 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-02 20:21:33.1068 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=40, FilePath=/Users/krzysztofkokot/Projects/RestaurantApi/RestaurantApi/NLog.config
+2024-03-02 20:21:33.1118 Info Configuration initialized.
+2024-03-02 20:25:02.7709 Info Loading assembly name: NLog-Web.AspNetCore
+2024-03-02 20:25:02.7892 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: NLog-Web.AspNetCore
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+
+File name: 'NLog-Web.AspNetCore, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.InternalLoad(AssemblyName assemblyName, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext, RuntimeAssembly requestingAssembly, Boolean throwOnFileNotFound)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(String assemblyName)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(ConfigurationItemFactory factory, String assemblyName, String itemNamePrefix)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssemblyName(String assemblyName, String prefix)
+   --- End of inner exception stack trace ---
+2024-03-02 20:25:02.9328 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-03-02 20:25:02.9349 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-02 20:25:02.9846 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-02 20:25:03.0674 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=40, FilePath=/Users/krzysztofkokot/Projects/RestaurantApi/RestaurantApi/NLog.config
+2024-03-02 20:25:03.0922 Info Configuration initialized.
