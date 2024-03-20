@@ -31,8 +31,6 @@
     <Folder Include="Validators\" />
     <Folder Include="Authorization\" />
     <Folder Include="PrivateFiles\" />
-    <Folder Include=".github\" />
-    <Folder Include=".github\workflows\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="CopilotDev.NET.Api" Version="1.1.0" />
@@ -54,9 +52,5 @@
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.16" />
     <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.2.0" />
     <PackageReference Include="Azure.Core" Version="1.38.0" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include=".github\workflows\CI.yml" />
-    <None Include=".github\workflows\deploy.yml" />
   </ItemGroup>
 </Project>
